@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>E.1a31848a-28de-11ec-8df9-d481d7a81bff.jpg</filename>
+	<path>D:\PROJECT2\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\E.1a31848a-28de-11ec-8df9-d481d7a81bff.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>220</ymin>
+			<xmax>428</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>
